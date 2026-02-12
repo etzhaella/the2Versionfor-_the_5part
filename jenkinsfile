@@ -12,7 +12,7 @@ pipeline {
 
         stage('Clone Repository') {
             steps {
-                git branch: 'main', url: 'https://github.com/etzhaella/Section-5-CICD-Integration-with-Jenkins.git'
+                git branch: 'main', url: https://github.com/etzhaella/the2Versionfor-_the_5part.git
             }
         }
 
